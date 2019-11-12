@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nodeProcessCommandLine: "%ProgramFiles(x86)%\nodejs\4.8.4\node.exe"
+=======
+nodeProcessCommandLine: "%ProgramFiles%\nodejs\node.exe"
+>>>>>>> Create locally
