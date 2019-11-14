@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "thieftrackingrecordapp",
-=======
   "name": "ThiefTrackingRecordApp",
->>>>>>> Create locally
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
